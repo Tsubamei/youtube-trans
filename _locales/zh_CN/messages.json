@@ -777,6 +777,6 @@
         "message": "YouTube 语言"
     },
     "youtubeLimitsVideoQualityTo1080pForH264Codec": {
-        "message": "采用 H.264 编解码时，YouTube 会将视频画质设为 1080p"
+        "message": "采用 H.264 编解码时，YouTube 会将视频画质限制在 1080p"
     }
 }
